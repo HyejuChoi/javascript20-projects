@@ -307,6 +307,7 @@ Check out all of the submissions below! Well done everyone!
 - LaClarence - [Github](https://github.com/LaClarence/Quote-Generator) | [View Live](https://laclarence.github.io/Quote-Generator/)
 - Sylwester Foerster - [Github](https://github.com/For3stu/Quote-Generator) | [View Live](https://for3stu.github.io/Quote-Generator/)
 - dotslashbit - [Github](https://github.com/dotslashbit/web-projects/tree/main/javascript_projects/quote_generator) | [View Live](https://web-projects-sepia.vercel.app/)
+- Hyeju Choi - [Github](https://github.com/HyejuChoi/quote-generator) | [View Live](https://hyejuchoi.github.io/quote-generator/)
 
 ### Infinity Scroll - Original: [Github](https://github.com/JacintoDesign/infinite-scroll)
 
@@ -538,6 +539,7 @@ Check out all of the submissions below! Well done everyone!
 - BM Mahamudul Hasan Shohug - [Github](https://github.com/bshohug/joke-teller) | [View Live](https://bshohug.github.io/joke-teller/)
 - Yu Ling Chen - [Github](https://github.com/Yo0GuitarIT/JokeTeller) | [View Live](https://yo0guitarit.github.io/JokeTeller/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/joke-teller) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/joke-teller/)
+- Hyeju Choi - [Github](https://github.com/HyejuChoi/joke-teller) | [View Live](https://hyejuchoi.github.io/joke-teller/)
 
 ### Light Dark Mode - Original: [Github](https://github.com/JacintoDesign/light-dark-mode)
 
@@ -844,6 +846,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/013-spock-rock-game) | [View Live](http://wayney-spock-rock-game.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/spock-rock-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/spock-rock-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/spock-rock-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/spock-rock-game/)
+- Hyeju Choi - [Github](https://github.com/HyejuChoi/spock-rock-game) | [View Live](https://hyejuchoi.github.io/spock-rock-game/)
 
 ### NASA APOD - Original: [Github](https://github.com/JacintoDesign/nasa-api-pictures)
 
@@ -931,6 +934,7 @@ Check out all of the submissions below! Well done everyone!
 - MingWei Yong - [Github](https://github.com/ymw0331/javascript-20-projects/tree/master/015-math-sprint) | [View Live](http://wayney-math-sprint.s3-website-ap-southeast-1.amazonaws.com/)
 - Daniel Wernz - [Github](https://github.com/dwernz/ZTM_Portfolio/tree/master/project/math-sprint-game) | [View Live](https://dwernz.github.io/ZTM_Portfolio/project/math-sprint-game/)
 - Vamshidhar Thonti - [Github](https://github.com/vamshidhar-thonti/JavaScript/tree/master/JS-Projects/math-sprint-game) | [View Live](https://vamshidhar-thonti.github.io/JavaScript/JS-Projects/math-sprint-game/)
+- Hyeju Choi - [Github](https://github.com/HyejuChoi/math-sprint-game) | [View Live](https://hyejuchoi.github.io/math-sprint-game/)
 
 ### Drag and Drop - Original: [Github](https://github.com/JacintoDesign/drag-and-drop)
 
